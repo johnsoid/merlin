@@ -1,2 +1,2 @@
 # merlin
-Mushroom Monotub Environmental Control Automation 
+Mushroom Monotub Automation 
